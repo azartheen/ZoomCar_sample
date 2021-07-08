@@ -1,0 +1,215 @@
+.nav-right a {
+  color: white !important;
+  float: right;
+  margin-right: 5px;
+  font-size: 16px;
+}
+.Nav-background {
+  background-color: #33414f;
+  color: white;
+}
+.brandName {
+  color: white !important;
+}
+.right {
+  margin-left: 470px;
+}
+.jumbotron {
+  background-image: url("https://i.gadgets360cdn.com/large/zoomcar_site_1501752020534.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 525px;
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+}
+.jumbotron-title {
+  margin-top: 100px;
+}
+
+.advantage {
+  background-color: #eeeeee;
+  text-align: center;
+  color: gray;
+  align-items: center;
+  padding-bottom: 25px;
+}
+
+.advantageCard {
+  font-size: 13px;
+  padding: none;
+}
+.superMileClub {
+  background: linear-gradient(rgba(0, 0, 0, 0.719), rgba(0, 0, 0, 0.685)),
+    url("https://live.staticflickr.com/4344/36060206920_6c95c06fed_b.jpg");
+  background-blend-mode: luminosity;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 250px;
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+}
+.supermilerpriveledge {
+  color: rgba(173, 166, 166, 0.685);
+  font-size: 15px;
+}
+.earnCredits {
+  margin-top: 20px;
+  background-color: white;
+  width: 175px;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-size: 14px;
+  padding-bottom: 60px;
+}
+.earnZPoints {
+  background-color: #eeeeee;
+  margin-left: auto;
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 30px;
+}
+.working {
+  background-color: #eeeeee;
+  text-align: center;
+  color: gray;
+  align-items: center;
+  padding-bottom: 25px;
+  padding-top: 30px;
+}
+.onTheGo {
+  background-image: url("https://media.istockphoto.com/photos/top-view-of-trendy-wooden-office-desk-with-keyboard-white-earphones-picture-id1127701757?k=6&m=1127701757&s=612x612&w=0&h=AQTU0xz6Rj8MjtaNgJnYlpsYV1qh_suC3p4e0e3TbQQ=");
+  background-blend-mode: luminosity;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 500px;
+  text-align: center;
+  color: white;
+  margin-bottom: 50px;
+}
+.d-flex div {
+  padding: 2px;
+  text-align: right;
+}
+.flexContents {
+  padding: 40px;
+  margin-left: 20px;
+}
+.flexContetsText {
+  font-size: 12px;
+  margin-top: 0px;
+}
+.belowFooter {
+  padding-left: 125px;
+  padding-right: 125px;
+  color: rgba(56, 56, 56, 0.719);
+}
+.belowFooterPara {
+  color: black;
+  font-size: 14px;
+}
+.belowfooterEach {
+  margin-top: 30px;
+}
+.aboveFooter {
+  background-color: #43505cf5;
+  color: white;
+  padding: 20px;
+}
+.flexContentsFooter {
+  margin-left: 100px;
+}
+.flexContentsFooterText {
+  margin-top: 20px;
+}
+.footer {
+  text-align: center;
+  background-color: #3c4d5e;
+  color: white;
+}
+.footer a {
+  color: white;
+}
+.footerFlex {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.footerHeading {
+  margin-bottom: 10px;
+  padding: 20px;
+}
+.KeepInTouch {
+  text-align: left;
+  margin-left: 100px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+.Address {
+  color: grey;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.nav-link {
+  padding: 20px;
+}
+.offer-title {
+  padding-top: 50px;
+  text-align: center;
+  color: rgb(95, 92, 92);
+}
+.offer-hr {
+  background: black;
+  height: 0.1px;
+}
+.offer-cards {
+  margin-left: 70px;
+}
+.modal-buttons {
+  margin: 10px;
+  width: 250px;
+  height: 50px;
+  color: white;
+  margin-left: 50px;
+}
+.facebook {
+  background-color: rgb(80, 80, 185);
+}
+.google {
+  background-color: rgb(214, 41, 41);
+}
+.modal-bottom {
+  background-color: white;
+  text-align: "center";
+  padding: 50px;
+}
+.modal-enter {
+  background-color: rgb(96, 211, 96);
+  color: white;
+  border-radius: 50%;
+}
+/*** amigo page*/
+.jumbotron-amigo {
+  background-image: url("https://images.all-free-download.com/images/wallpapers_thum/green_wallpaper_abstract_other_wallpaper_3314.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 525px;
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+}
+.hr-amigo {
+  background: white;
+}
+.jumbotron-subscription {
+  background-image: url("https://i.pinimg.com/originals/ed/30/7d/ed307dfce306c80bc047574fa7d59eec.jpg");
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 525px;
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+}
